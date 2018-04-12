@@ -1,0 +1,16 @@
+
+.card {
+    text-align:center;
+    width:80%;
+    margin:0 auto;
+    color:black;
+    border:1px solid black;
+    border-radius:2px;
+    padding:1em;
+    transition:0.3s ease-out;
+  }
+  
+  .card:hover {
+    background-color:black;
+    color:white;
+  }
