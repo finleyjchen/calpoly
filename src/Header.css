@@ -9,11 +9,12 @@
   color:rgba(0,0,0,1);
   transition:0.4s ease-out;
   position:relative;
+  font-weight:bold;
 }
 
 .header-wrapper a:hover {
   text-decoration:none;
-  
+  color:black;
 }
 
 .header-wrapper a:before {
